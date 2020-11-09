@@ -1,4 +1,4 @@
-module github.com/Lunkov/lib-mq.git
+module github.com/Lunkov/lib-mq
 
 go 1.13
 
